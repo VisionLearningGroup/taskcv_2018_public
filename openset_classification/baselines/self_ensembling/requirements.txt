@@ -1,0 +1,10 @@
+click
+tqdm
+numpy
+scipy
+opencv-python
+scikit-image
+scikit-learn>=0.18
+pytorch
+torchvision
+batchup
